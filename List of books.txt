@@ -1,0 +1,11 @@
+Harry Potter,Jk Rowling,26,$2
+Start With Why,Simon Sinek,6,$1.5
+Programming With Python,Jhon Smith,20,$1.5
+Learn C++,James Joyce,15,$1
+Learn Database,Aidous Huxley,5,$2
+Moon Virginia,Katie Githens,20,$3
+Thin Line,L.T.Ryan,7,$2
+The Noble Apporach,Tod Polson,12,$1
+Learn Database,Aidous Huxley,5,$2
+The Noble Eightfold Path,Bhikkhu Bodhi,15,$2.5
+,
